@@ -1,0 +1,16 @@
+{
+  "name": "rsf_perf_test",
+  "version": "0.0.1",
+  "description": "Measure performance of RSF website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "asciichart": "^1.5.9",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
