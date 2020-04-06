@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "asciichart": "^1.5.9",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "node-fetch": "^2.6.0"
   }
 }
