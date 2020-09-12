@@ -11,6 +11,6 @@
   "dependencies": {
     "asciichart": "^1.5.9",
     "minimist": "^1.2.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
